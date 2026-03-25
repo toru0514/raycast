@@ -1,6 +1,6 @@
 #!/bin/bash
 # @raycast.schemaVersion 1
-# @raycast.title Restart Zed
+# @raycast.title Zed Restart
 # @raycast.mode fullOutput
 # @raycast.icon 🔄
 # @raycast.packageName Dev Tools
